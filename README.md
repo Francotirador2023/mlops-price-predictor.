@@ -2,7 +2,7 @@
 
 Un pipeline "End-to-End" de Machine Learning para predecir precios de viviendas en California. Este proyecto demuestra buenas prácticas de **MLOps** integrando entrenamiento de modelos, APIs REST, Contenedores y Dashboards interactivos.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Python 3.10**: Lenguaje base.
 - **Scikit-Learn**: Entrenamiento del modelo (Random Forest).
