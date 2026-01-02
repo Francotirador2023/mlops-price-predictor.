@@ -62,10 +62,8 @@ mlops-price-predictor/
     docker run -p 8000:8000 house-price-predictor
     ```
 
-## 📊 Endpoints de la API
+## Endpoints de la API 📊 
 
 - `GET /`: Health check.
 - `POST /predict`: Recibe un JSON con las características de la casa y devuelve el precio estimado.
 
----
-*Proyecto desarrollado como parte de demostración de capacidades de Ingeniería de Datos y MLOps.*
