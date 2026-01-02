@@ -1,4 +1,4 @@
-# 🏠 MLOps House Price Predictor
+# MLOps House Price Predictor
 
 Un pipeline "End-to-End" de Machine Learning para predecir precios de viviendas en California. Este proyecto demuestra buenas prácticas de **MLOps** integrando entrenamiento de modelos, APIs REST, Contenedores y Dashboards interactivos.
 
@@ -11,7 +11,7 @@ Un pipeline "End-to-End" de Machine Learning para predecir precios de viviendas 
 - **Docker**: Containerización para despliegue portable.
 - **Joblib**: Serialización del modelo.
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto 📂 
 
 ```bash
 mlops-price-predictor/
@@ -24,7 +24,7 @@ mlops-price-predictor/
 └── model.joblib         # Modelo entrenado (generado)
 ```
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar 🚀 
 
 ### Opción 1: Localmente (Python)
 
